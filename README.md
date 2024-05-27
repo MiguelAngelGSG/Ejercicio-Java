@@ -1,1 +1,3 @@
 # Ejercicio-Java
+He realizado este ejercicio buscando la definicion y uso de los parametros y variables utilizados en ejercicios pre-resueltos.
+Una vez entendiendo algunas de las herramientas a mi disposición y con ayuda de las compañeras he creado esta App que te solicita tu peso y altura, calcula tu IMC con un calculo matemático simple y compara el resultado de tu IMC con el standard del ejercicio para determinar tu salud de acuerdo al IMC.
